@@ -1,10 +1,11 @@
-## 💨 Hello, my name is Aziz
+## 💨 Hello, my name is Mohamed Abdelkarim
+
 I am JavaScript, PHP, NodeJS, CSS, HTML developer.<br>
-I have dream to build programming Discord server : **https://discord.com/invite/XTYabJGmDX**
+I have dream to build programming Discord server : **https://dsc.gg/shuruhatik**
 
 #### 🌐 My Web : work on it
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azizmjaber02&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shuruahatik02&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizmjaber02&theme=dark&layout=compact)
 
