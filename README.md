@@ -3,13 +3,6 @@
 I am JavaScript, PHP, NodeJS, CSS, HTML developer.<br>
 I have dream to build programming Discord server : **https://dsc.gg/shuruhatik**
 
-#### 🌐 My Web : work on it
+## 🌐 My Web : https://www.shuruhatik.xyz/
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shuruahatik02&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizmjaber02&theme=dark&layout=compact)
-
-## Pinned Projects
-[![Pinned Projects](https://github-readme-stats.vercel.app/api/pin/?username=azizmjaber02&repo=KemzoDev-Network&show_icons=true&theme=dark)](https://github.com/azizmjaber02/KemzoDev-Network)
-
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=azizmjaber02.azizmjaber02)
+<img align="left" alt="ChickenDevs' Stats" src="https://github-readme-stats.vercel.app/api?username=Shuruhatik&count_private=true&show_icons=true&theme=radical">
