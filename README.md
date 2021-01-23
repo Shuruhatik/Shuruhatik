@@ -1,16 +1,14 @@
-### Hi there 👋
+## 💨 Hello, my name is Aziz
+I am JavaScript, PHP, NodeJS, CSS, HTML developer.<br>
+I have dream to build programming Discord server : **https://discord.com/invite/XTYabJGmDX**
 
-<!--
-**Shuruhatik/Shuruhatik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🌐 My Web : work on it
 
-Here are some ideas to get you started:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azizmjaber02&show_icons=true&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizmjaber02&theme=dark&layout=compact)
+
+## Pinned Projects
+[![Pinned Projects](https://github-readme-stats.vercel.app/api/pin/?username=azizmjaber02&repo=KemzoDev-Network&show_icons=true&theme=dark)](https://github.com/azizmjaber02/KemzoDev-Network)
+
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=azizmjaber02.azizmjaber02)
