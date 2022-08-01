@@ -49,9 +49,7 @@
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shuruhatik&theme=github)
 
 ### 😀 My Discord account:
-<a href="https://discord.gg/st-studio">
-  <img width=500 src="https://discord.c99.nl/widget/theme-1/742070589212327947.png"/>
-</a>
+- `Shuruhatik#2443`
 
  <br> 
  
