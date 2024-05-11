@@ -4,7 +4,7 @@
 
 <br />
 
-- I am JavaScript, NodeJS, CSS, HTML developer
+- I am JavaScript, TypeScript, NodeJS, CSS, HTML developer
 - I have dream to build programming [Discord server](https://discord.gg/st-studio)
 - I have a YouTube channel that provides explanations about Discord and programming
 - [My Youtube channel](https://www.youtube.com/channel/UCXSrBk2f9wzB-fugmRR4wsg) <img src="https://media.giphy.com/media/mA7fEN41GcZNK04oRI/giphy.gif" width="22px">
