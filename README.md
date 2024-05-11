@@ -43,13 +43,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shuruhatik&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shuruhatik&theme=nord_dark)
 
-
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shuruhatik&theme=github)
-
 ### 😀 My Discord account:
-- `Shuruhatik#2443`
+- `shuruhatik`
 
  <br> 
  
